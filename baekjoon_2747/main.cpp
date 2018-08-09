@@ -2,7 +2,8 @@
 using namespace std;
 
 int main() {
-	int n1 = 0, n2 = 1, tmp, i1;
+	unsigned long long n1 = 0, n2 = 1, tmp
+	int i1;
 	cin >> i1;
 	if (i1 < 2) cout << i1;
 	else {
